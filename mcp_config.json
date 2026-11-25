@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "lucius": {
+      "serverUrl": "https://api.ailucius.com/api/v1/mcp"
+    }
+  }
+}

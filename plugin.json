@@ -1,0 +1,13 @@
+{
+  "name": "lucius",
+  "displayName": "Lucius AI",
+  "description": "Find open public tenders and read tender packs in Antigravity: the bid call, the requirements that decide it, each with its quote and page, and the forms to return.",
+  "version": "1.0.0",
+  "logo": "logo.png",
+  "author": {
+    "name": "Lucius AI Systems, Inc.",
+    "url": "https://ailucius.com"
+  },
+  "homepage": "https://ailucius.com/developers",
+  "license": "Proprietary"
+}
